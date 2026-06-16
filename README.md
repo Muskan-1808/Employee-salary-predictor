@@ -1,4 +1,4 @@
-# 💵 EMPLOYEE SALARY PREDICTOR
+# 💵 EMPLOYEE SALARY PREDICTOR (AICTE INTERNSHIP-CAPSTONE PROJECT)
 
 ### 🌟OBJECTIVE: To develop a machine learning based employee salary predictor that predicts an employee's salary based on various parameters such as Employee ID and Years of Experience using Multiple Linear Regression. The objective is to analyze employee data, build a predictive model, and create an interactive web application using Streamlit that allows users to enter employee details and get accurate salary predictions.
 
