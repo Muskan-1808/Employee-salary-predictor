@@ -8,5 +8,5 @@
 
 ### 💸EMPLOYEE SALARY PREDICTOR WEB APPLICATION OUTPUT
 
-<img width="1007" height="842" alt="image" src="https://github.com/user-attachments/assets/1d6320b6-cfcf-44a5-b86b-0bec997ec1bc" />
+<img width="1150" height="792" alt="image" src="https://github.com/user-attachments/assets/9a4a2010-16e8-4dd3-a127-127b2f8de263" />
 
